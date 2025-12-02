@@ -1,0 +1,7 @@
+.idea/
+GitTest9.iml
+**/*.log
+
+
+### Mac OS ###
+.DS_Store
